@@ -1,0 +1,7 @@
+flask
+requests
+threading
+paramiko
+kubernetes
+subprocess
+yaml
